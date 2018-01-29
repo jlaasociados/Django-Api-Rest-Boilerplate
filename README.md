@@ -1,10 +1,12 @@
 # api-rest-boilerplate
 
-Api Rest developed on Django Rest Framework. This API boilerplate has the following characteristics:
+Api Rest desarrollando con Django Rest Framework sobre el framework Django 2.0. Se incorporan las siguientes caractersticas:
 
-* based in Django 2.0
+* está basado en Django 2.0
 
-* Token - based authentication
+* Autenticación basada en tokens.
 
 * Pruebas unitarias: coverage run manage.py test general -v 2
+
+## ¿Dónde utilizamos esta API REST?
 
