@@ -16,4 +16,8 @@ API son unas siglas que significan Application Programming Interface, o Interfaz
 
 REST, siglas de **Transferencia de Estado Representacional** es un estilo de arquitectura que utilizamos para diseñar aplicaciones en red, ya sean aplicaciones web, de escritorio o móviles. API pretende ser una alternativa a REST CORBA, RPC o SOAP. Y para conseguirlo nuestra API REST utiliza el protocolo HTTP.
 
+Un ejemplo de utilización de nuestra API REST lo tenemos en nuestra aplicación para [colaboradores de la correduría](https://www.jlaasociados.es/trabaja-con-nosotros/). Cuando uno de nuestros colaboradores solicita a su aplicación consultar el estado de sus recibos, dicha aplicación envía una petición HTTP desde el navegador (cliente Javascript) a nuestra API. Dicha petición tendrá una respuesta, estableciendo una operación que se ha completado con éxito.
+
+
+
 
