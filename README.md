@@ -3,10 +3,9 @@
 Api Rest desarrollando con Django Rest Framework sobre el framework Django 2.0. Se incorporan las siguientes caractersticas:
 
 * está basado en Django 2.0
-
 * Autenticación basada en tokens.
-
 * Pruebas unitarias: coverage run manage.py test general -v 2
+* Hemos establecido que el usuario de la API sea un email, midificando el modelo estándar de usuario en Django. Esto nos facilita las cosas para integrar en nuestras aplicaciones a los colaboradores de la correduría.
 
 ## ¿Dónde utilizamos esta API REST?
 
