@@ -15,6 +15,6 @@ REST, siglas de **Transferencia de Estado Representacional** es un estilo de arq
 
 Un ejemplo de utilización de nuestra API REST lo tenemos en nuestra aplicación para [colaboradores de la correduría](https://www.jlaasociados.es/trabaja-con-nosotros/). Cuando uno de nuestros colaboradores solicita a su aplicación consultar el estado de sus recibos, dicha aplicación envía una petición HTTP desde el navegador (cliente Javascript) a nuestra API. Dicha petición tendrá una respuesta, estableciendo una operación que se ha completado con éxito.
 
-## Cliente Vie.JS 2.0
+## Cliente Vue.JS 2.0
 
 Vue.js es un framework progresivo. Ésto nos permte usarlo tanto para cosas sencillas como para desarrollos más complejos. Además, tanto el rendimiento como la experiencia de desarrollo son excelentes.
